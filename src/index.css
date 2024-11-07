@@ -1,0 +1,19 @@
+.navbar {
+  background-color: rgb(214, 139, 58);
+  color: #198754;
+  border-bottom: 10px solid #800080;
+}
+
+.navbar-brand {
+  font-weight: 500;
+  color: #198754;
+}
+
+.btn {
+  background-color: #204a66;
+  border: 1px solid #fff;
+}
+
+.accordion-button::after {
+  filter: invert(1);
+}
